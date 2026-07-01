@@ -4,7 +4,9 @@ import artist from "@data/artist.json";
 export const SITE = {
   name: "Alexander Technique",
   domain: "djalexandertechnique.com",
-  url: "https://www.djalexandertechnique.com",
+  // Canonical/metadata base = the live URL so share images (OG) resolve.
+  // TODO: switch to https://www.djalexandertechnique.com once that domain is connected in Vercel.
+  url: "https://dj-alexander-technique.vercel.app",
   title: "Alexander Technique — NYC Techno DJ, Producer & Label Owner",
   description:
     "Official site of Alexander Technique — New York City techno DJ, producer and label owner. Raw, stripped, peak-time techno supported by Carl Cox, Adam Beyer & Kevin Saunderson. Listen, watch, and book.",
