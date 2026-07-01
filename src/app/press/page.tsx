@@ -25,7 +25,7 @@ export default function PressPage() {
           >
             {press.pressKitUrl ? "Download press kit" : "Press kit — coming soon"}
           </a>
-          <a href={`mailto:${SITE.bookingEmail}`} className="btn-ghost">Booking: {SITE.bookingEmail}</a>
+          <a href={`mailto:${SITE.bookingEmail}`} className="btn-ghost max-w-full break-all text-center">Booking: {SITE.bookingEmail}</a>
         </div>
         {!press.pressKitUrl && <p className="mt-3 text-xs text-bone-faint">{press.pressKitNote}</p>}
       </section>
@@ -99,7 +99,7 @@ export default function PressPage() {
         <div className="container-site grid gap-10 md:grid-cols-2">
           <div>
             <div className="label-mono mb-4 text-acid">Booking &amp; press contact</div>
-            <a href={`mailto:${SITE.bookingEmail}`} className="display text-3xl text-bone hover:text-acid sm:text-4xl">
+            <a href={`mailto:${SITE.bookingEmail}`} className="display block break-all text-2xl text-bone hover:text-acid sm:text-4xl">
               {SITE.bookingEmail}
             </a>
             <div className="mt-6">

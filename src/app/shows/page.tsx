@@ -79,9 +79,9 @@ export default function ShowsPage() {
       <section className="container-site py-20 text-center">
         <Reveal>
           <h2 className="display mx-auto max-w-3xl text-4xl text-bone sm:text-6xl">Bring the technique to your floor.</h2>
-          <div className="mt-8 flex justify-center gap-3">
-            <Link href="/contact" className="btn-acid">Request a booking</Link>
-            <a href={`mailto:${SITE.bookingEmail}`} className="btn-ghost">{SITE.bookingEmail}</a>
+          <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+            <Link href="/contact" className="btn-acid w-full sm:w-auto">Request a booking</Link>
+            <a href={`mailto:${SITE.bookingEmail}`} className="btn-ghost w-full max-w-full break-all sm:w-auto">{SITE.bookingEmail}</a>
           </div>
         </Reveal>
       </section>

@@ -56,7 +56,7 @@ export function TourMap() {
           >
             <span className="absolute inset-0 -m-2 animate-ping rounded-full bg-acid/40" style={{ animationDuration: "2.4s" }} />
             <span className="relative block h-2.5 w-2.5 rounded-full bg-acid shadow-[0_0_10px_rgba(200,255,0,0.9)]" />
-            <span className="label-mono absolute left-4 top-1/2 -translate-y-1/2 whitespace-nowrap text-[10px] text-bone opacity-80">
+            <span className="label-mono absolute left-3 top-1/2 hidden -translate-y-1/2 whitespace-nowrap text-[10px] text-bone opacity-80 sm:block">
               {p.name}
             </span>
           </div>
