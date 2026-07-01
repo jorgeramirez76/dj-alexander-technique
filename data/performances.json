@@ -1,0 +1,15 @@
+{
+  "bandsintownArtist": "DJ Alexander Technique",
+  "bandsintownUrl": "https://www.bandsintown.com/a/1208679-dj-alexander-technique",
+  "bookingRegions": ["New York City", "Miami", "New Jersey", "Detroit", "London"],
+  "upcoming": [],
+  "upcomingNote": "No upcoming dates are hardcoded. The live list is pulled from Bandsintown; add manual/CMS entries to this array as { \"date\", \"event\", \"venue\", \"city\", \"ticketUrl\" }.",
+  "past": [
+    { "event": "CODA: The Closing Party", "venue": "Bookies", "city": "Detroit", "date": "May 26", "year": null, "note": "Movement week", "verified": true },
+    { "event": "Dude Where's My Drum Machine", "venue": "Exodos Lounge", "city": "Detroit", "date": "May 25", "year": null, "note": null, "verified": true },
+    { "event": "The People Mover $10 Party", "venue": "Corktown Tavern", "city": "Detroit", "date": "May 24", "year": null, "note": null, "verified": true },
+    { "event": "Underground Light presents “Aight Bet”", "venue": "Church", "city": "Detroit", "date": "May 23", "year": null, "note": null, "verified": true },
+    { "event": "The Good Times, New York (w/ DJ Sneak)", "venue": "Eden NYC", "city": "New York City", "date": "Feb 7", "year": null, "note": null, "verified": true }
+  ],
+  "pastNote": "Past dates are verbatim from Resident Advisor's event history. Years were not shown on the profile and need verification."
+}

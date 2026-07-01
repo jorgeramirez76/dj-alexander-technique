@@ -1,0 +1,16 @@
+{
+  "bookingEmail": "bookings@djalexandertechnique.com",
+  "website": "https://www.djalexandertechnique.com/",
+  "profiles": [
+    { "platform": "Instagram", "handle": "@alexandertechnique", "url": "https://www.instagram.com/alexandertechnique/", "primary": true },
+    { "platform": "SoundCloud", "handle": "djalexandertechnique", "url": "https://soundcloud.com/djalexandertechnique", "primary": true },
+    { "platform": "YouTube", "handle": "Alexander Technique", "url": "https://www.youtube.com/channel/UC8gztElkU18nwiPJCvJRYYA", "primary": true },
+    { "platform": "Beatport", "handle": "Alexander Technique", "url": "https://www.beatport.com/artist/alexander-technique/17494", "primary": true },
+    { "platform": "Resident Advisor", "handle": "alexandertechnique", "url": "https://ra.co/dj/alexandertechnique", "primary": false },
+    { "platform": "Traxsource", "handle": "Alexander Technique", "url": "https://www.traxsource.com/artist/9284/alexander-technique", "primary": false },
+    { "platform": "Discogs", "handle": "Alexander Technique", "url": "https://www.discogs.com/artist/312774-Alexander-Technique", "primary": false },
+    { "platform": "Bandsintown", "handle": "DJ Alexander Technique", "url": "https://www.bandsintown.com/a/1208679-dj-alexander-technique", "primary": false },
+    { "platform": "X", "handle": "@AlexanderTechnq", "url": "https://x.com/AlexanderTechnq", "primary": false },
+    { "platform": "Facebook", "handle": "ATechnique", "url": "https://www.facebook.com/ATechnique/", "primary": false }
+  ]
+}

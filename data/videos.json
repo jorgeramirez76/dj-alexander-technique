@@ -1,0 +1,52 @@
+{
+  "channel": "https://www.youtube.com/channel/UC8gztElkU18nwiPJCvJRYYA",
+  "categories": [
+    {
+      "key": "live-sets",
+      "label": "Live Sets",
+      "blurb": "Full sets and streams from the booth.",
+      "items": [
+        { "id": "aT77g27c_KU", "title": "Alexander Technique @ Razzmatazz, Barcelona" },
+        { "id": "ZLXQ_FQJTJ4", "title": "Alexander Technique :: Tech Bunker | 002" },
+        { "id": "yZT9hrsKnDQ", "title": "Alexander Technique :: Tech Bunker | 001" },
+        { "id": "61ZG1KQajIw", "title": "Alexander Technique :: TNL Live Stream 1/14/21" },
+        { "id": "s1_zzfu5z3w", "title": "Alexander Technique :: Live 2/15/21 (NYC)" },
+        { "id": "KB956yTys0I", "title": "Alexander Technique :: MySpaceVapes Live Stream 001" }
+      ]
+    },
+    {
+      "key": "played-out-by",
+      "label": "Played Out By",
+      "blurb": "The world's biggest DJs dropping his tracks and remixes.",
+      "items": [
+        { "id": "b7ZlQKmmvn0", "title": "Carl Cox @ Tomorrowland", "dj": "Carl Cox", "track": "Jay Potter & Rowetta — “The Game” (AT Remix)" },
+        { "id": "1KB9vSHMRNY", "title": "Carl Cox @ BBC Radio 1 Essential Mix", "dj": "Carl Cox", "track": "Jay Potter & Rowetta — “The Game” (AT Remix)" },
+        { "id": "8S5z9Ueww_c", "title": "Carl Cox @ CRSSD Festival", "dj": "Carl Cox", "track": "Jay Potter & Rowetta — “The Game” (AT Remix)" },
+        { "id": "0aDdNMkUWVQ", "title": "Carl Cox @ Time Warp", "dj": "Carl Cox", "track": "“Sume Sigh Say” (Agent Orange DJ × AT)" },
+        { "id": "Cj9Wf1IQR_w", "title": "Carl Cox @ Ultra Miami 2019", "dj": "Carl Cox", "track": "“Sume Sigh Say” (Agent Orange DJ × AT)" },
+        { "id": "k8bV_ejkX2k", "title": "Carl Cox @ Radius, Chicago", "dj": "Carl Cox", "track": "Kenny Dope “Axxis” (AT Remix)" },
+        { "id": "QwbjuhPk4ws", "title": "The Blessed Madonna @ BBC R1 Essential Mix", "dj": "The Blessed Madonna", "track": "“All I'm Askin” (AT)" },
+        { "id": "jWxSrJOqlPM", "title": "Adam Beyer @ Elrow, Drumcode Radio", "dj": "Adam Beyer", "track": "“Da Bango” (AT Remix)" },
+        { "id": "PtvmtklM_X8", "title": "Kevin Saunderson @ FAC51 The Haçienda", "dj": "Kevin Saunderson", "track": "Todd Terry & Black Riot — “A Day In The Life” (AT Remix)" },
+        { "id": "P6Wjscpa18s", "title": "Kevin Saunderson @ Mixmag BudX Paris", "dj": "Kevin Saunderson", "track": "“Yes It's Good” (AT Remix)" },
+        { "id": "BnJT9b_FuyU", "title": "Kevin Saunderson @ Movement", "dj": "Kevin Saunderson", "track": "“Samba” (Agent Orange DJ × AT)" },
+        { "id": "Rox1b7HYk9o", "title": "Loco Dice @ Kami Beach, Naples", "dj": "Loco Dice", "track": "“Da Bango” (AT Remix)" },
+        { "id": "J-GSKsPvnZI", "title": "Loco Dice @ Ultra Miami", "dj": "Loco Dice", "track": "“Da Bango” (AT Remix)" },
+        { "id": "zFiuqAgu2R8", "title": "Maceo Plex @ The World Is Yours", "dj": "Maceo Plex", "track": "Todd Terry & Alexander Technique" },
+        { "id": "7Z2qTt_yFIc", "title": "Marco Carola @ Space Miami", "dj": "Marco Carola", "track": "“Sume Sigh Say” (Agent Orange DJ × AT)" },
+        { "id": "-B6wpY_y4tM", "title": "Shiba San @ Space Miami", "dj": "Shiba San", "track": "“Street Knowledge” (AT)" },
+        { "id": "DAiyd3Ifatk", "title": "Delta Funktionen @ Tresor", "dj": "Delta Funktionen", "track": "AT ft. Roland Clark — “MFKR Still Dancin'”" }
+      ]
+    },
+    {
+      "key": "productions",
+      "label": "Productions",
+      "blurb": "Originals, remixes and studio cuts.",
+      "items": [
+        { "id": "brFPFju1qj0", "title": "Todd Terry & Alexander Technique — “Jack The T…” (Beatport ReConnect)" },
+        { "id": "IZI-2NGqa8I", "title": "Colonel Abrams — “House Of Stone” (Alexander Technique Remix)" },
+        { "id": "gy3SOyT1zcY", "title": "“Revelation” — Alexander Technique (InHouse Records & Drop Ready)" }
+      ]
+    }
+  ]
+}

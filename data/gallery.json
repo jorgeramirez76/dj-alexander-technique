@@ -1,0 +1,14 @@
+{
+  "note": "Photos below are the artist's own official imagery (YouTube channel portrait, live-stream stills, release art) plus on-brand generated atmosphere tiles. Replace or add licensed hi-res press photos by dropping files in /public/media and setting 'src'.",
+  "items": [
+    { "id": "g1", "kind": "press", "label": "Portrait", "aspect": "square", "src": "/media/portrait.webp", "credit": "Official" },
+    { "id": "g2", "kind": "live", "label": "Live — NYC", "aspect": "landscape", "src": "/media/live-nyc.webp", "credit": "Official / YouTube" },
+    { "id": "g3", "kind": "cover", "label": "You Are Here — release art", "aspect": "square", "src": "/media/you-are-here.webp", "credit": "Official" },
+    { "id": "g4", "kind": "live", "label": "Razzmatazz, Barcelona", "aspect": "landscape", "src": "/media/live-razzmatazz.webp", "credit": "Official / YouTube" },
+    { "id": "g5", "kind": "atmos", "label": "Warehouse", "aspect": "landscape", "src": "/media/atmo-crowd.webp", "credit": "Brand art" },
+    { "id": "g6", "kind": "live", "label": "Tech Bunker 001", "aspect": "landscape", "src": "/media/live-techbunker1.webp", "credit": "Official / YouTube" },
+    { "id": "g7", "kind": "atmos", "label": "In the booth", "aspect": "square", "src": "/media/atmo-mixer.webp", "credit": "Brand art" },
+    { "id": "g8", "kind": "live", "label": "TNL Live Stream", "aspect": "landscape", "src": "/media/live-tnl.webp", "credit": "Official / YouTube" },
+    { "id": "g9", "kind": "live", "label": "Tech Bunker 002", "aspect": "landscape", "src": "/media/live-techbunker2.webp", "credit": "Official / YouTube" }
+  ]
+}

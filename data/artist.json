@@ -1,0 +1,49 @@
+{
+  "name": "Alexander Technique",
+  "stageName": "DJ Alexander Technique",
+  "monogram": "AT",
+  "roles": ["DJ", "Producer", "Remixer", "Label Owner"],
+  "tagline": "Stripped-down, banging techno for peak-time hours.",
+  "location": "New York City",
+  "originScene": "NY / NJ tri-state underground",
+  "born": "1975-11-13",
+  "heritage": { "value": "Cuban-American", "needsVerification": true },
+  "activeSince": "Late 1990s",
+  "firstRaListing": 2007,
+  "genres": ["Techno", "Peak Time / Driving", "Tech House", "House"],
+  "bpmRange": "127–138",
+  "labels": [
+    { "name": "Data Distortion", "role": "Founder", "since": 2026, "note": "Independent imprint for his own raw, futuristic techno." },
+    { "name": "Terminator Records", "role": "Co-founder (with Todd Terry)", "since": null, "note": "Hard-groove techno imprint." },
+    { "name": "Techno Riots", "role": "Founder", "since": 2024, "note": null }
+  ],
+  "releasedOn": ["Terminator Records", "Data Distortion", "Techno Riots", "Dopewax", "Brobot Records", "InHouse Records", "Drop Ready", "Say What? Records", "Mood Records", "Dolma Records"],
+  "collaborators": ["Todd Terry", "Felix Da Housecat", "Roland Clark", "Kenny Dope", "Michael Moog", "Inaya Day", "Azzido Da Bass", "Dantiez", "Munfell", "Jhoti", "Agent Orange DJ"],
+  "supporters": ["Carl Cox", "Adam Beyer", "Kevin Saunderson", "Chris Liebing", "Nicole Moudaber", "Maceo Plex", "Josh Wink", "The Blessed Madonna", "Loco Dice", "Marco Carola", "Shiba San", "Calvin Harris", "Oliver Heldens"],
+  "accolade": "Recent EP peaked at #5 on the Beatport Techno Top 100.",
+  "stats": [
+    { "value": 20, "prefix": "", "suffix": "+", "label": "Years in the underground" },
+    { "value": 13, "prefix": "", "suffix": "", "label": "A-list DJ supporters" },
+    { "value": 5, "prefix": "#", "suffix": "", "label": "Beatport Techno Top 100" },
+    { "value": 30, "prefix": "", "suffix": "+", "label": "Sets & videos online" }
+  ],
+  "bio": {
+    "short": "NYC techno DJ, producer & label owner — raw, stripped, peak-time techno, supported by Carl Cox, Adam Beyer & Kevin Saunderson.",
+    "medium": "Alexander Technique is a New York City techno DJ, producer and remixer with two decades in the underground. Co-founder of Terminator Records with Todd Terry and founder of Data Distortion, his raw, groove-driven productions draw support from Carl Cox, Adam Beyer, Kevin Saunderson, The Blessed Madonna and more.",
+    "long": "Alexander Technique is a NYC-rooted DJ, producer, and remixer known for raw, banging techno and a stripped, uncompromising underground sound. Emerging from the tri-state scene in the late '90s, he built his reputation through relentless DJ sets, deep record knowledge, and groove-driven productions designed for real rooms and late hours.\n\nWith a career spanning more than two decades, he has collaborated with artists including Todd Terry, Felix Da Housecat and Roland Clark, evolving from house roots into a darker, more raw techno direction while maintaining true underground credibility.\n\nHis productions have earned support from Carl Cox, Adam Beyer, Chris Liebing, Nicole Moudaber, Maceo Plex, Kevin Saunderson, Josh Wink, and The Blessed Madonna, regularly appearing in DJ sets across global club circuits.\n\nIn 2026 he launched Data Distortion, an independent imprint dedicated to releasing his own raw, futuristic techno — focused on tension, groove, and a no-compromise aesthetic."
+  },
+  "bioSourceNote": "Long bio is verbatim from the artist's official SoundCloud profile.",
+  "media": {
+    "portrait": "/media/portrait.webp",
+    "live": "/media/live-nyc.webp",
+    "portraitCredit": "Official channel portrait — confirm licensing before print use."
+  },
+  "timeline": [
+    { "year": "Late 1990s", "event": "Emerges from the NY/NJ tri-state underground; begins DJing house.", "verified": true },
+    { "year": "2007", "event": "First event listing appears on Resident Advisor.", "verified": true },
+    { "year": "2010", "event": "Official website first archived by the Internet Archive.", "verified": true },
+    { "year": "2017", "event": "“System” released on Terminator Records.", "verified": true },
+    { "year": "2024", "event": "Launches Techno Riots; “El Ritmo Santo” released on Terminator Records.", "verified": true },
+    { "year": "2026", "event": "Launches Data Distortion; recent EP peaks at #5 on the Beatport Techno Top 100.", "verified": true }
+  ]
+}

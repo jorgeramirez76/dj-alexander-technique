@@ -1,0 +1,18 @@
+{
+  "pressKitUrl": null,
+  "pressKitNote": "Upload a PDF/zip to /public and set 'pressKitUrl' (e.g. /alexander-technique-epk.pdf).",
+  "techRider": null,
+  "quotes": [],
+  "quotesNote": "No verified press pull-quotes were found during research. Add sourced quotes here as { \"quote\", \"source\", \"url\" }. Do not fabricate.",
+  "highlights": [
+    { "label": "Support from", "value": "Carl Cox, Adam Beyer, Kevin Saunderson, Chris Liebing, Nicole Moudaber, Maceo Plex, Josh Wink, The Blessed Madonna", "verified": true },
+    { "label": "Beatport", "value": "Recent EP peaked at #5 on the Techno Top 100", "verified": true },
+    { "label": "Labels", "value": "Co-founder, Terminator Records (with Todd Terry) · Founder, Data Distortion (2026)", "verified": true },
+    { "label": "Collaborations", "value": "Todd Terry, Felix Da Housecat, Roland Clark, Kenny Dope", "verified": true }
+  ],
+  "pressImages": [
+    { "id": "p1", "label": "Portrait — official", "src": "/media/portrait.webp", "credit": "Official channel — confirm print licensing" },
+    { "id": "p2", "label": "Live — NYC", "src": "/media/live-nyc.webp", "credit": "Official / YouTube" },
+    { "id": "p3", "label": "You Are Here — release art", "src": "/media/you-are-here.webp", "credit": "Official" }
+  ]
+}
