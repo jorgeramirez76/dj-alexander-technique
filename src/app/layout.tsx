@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Anton, Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { SITE, social, artist } from "@/lib/site";
@@ -38,6 +38,16 @@ export const metadata: Metadata = {
     images: ["/media/og.jpg"],
   },
   robots: { index: true, follow: true },
+  appleWebApp: {
+    capable: true,
+    title: "Alexander Technique",
+    statusBarStyle: "black-translucent",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#08090c",
+  colorScheme: "dark",
 };
 
 function StructuredData() {
