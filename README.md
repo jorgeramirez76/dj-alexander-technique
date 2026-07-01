@@ -6,6 +6,16 @@ real music/video embeds, a live tour feed, a full EPK, and clean SEO/structured 
 
 **Stack:** Next.js 15 (App Router) · TypeScript · Tailwind CSS v3 · React 19.
 
+## 👀 See it live (1 click)
+
+This is a full Next.js app, so it needs a host that runs it (not GitHub Pages). The fastest way
+to get a shareable link is Vercel's free tier:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jorgeramirez76/dj-alexander-technique)
+
+Click the button → sign in with GitHub → **Deploy**. In ~60 seconds you get a public
+`https://…vercel.app` link you can send to anyone.
+
 ---
 
 ## Quick start
