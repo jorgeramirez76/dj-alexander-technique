@@ -53,7 +53,12 @@ export function Footer() {
       </div>
 
       <div className="container-site flex flex-col gap-2 border-t border-ink-line py-6 text-xs text-bone-faint sm:flex-row sm:items-center sm:justify-between">
-        <span>© {new Date().getFullYear()} Alexander Technique. All rights reserved.</span>
+        <span>
+          © {new Date().getFullYear()} Alexander Technique. All rights reserved. Website by{" "}
+          <a href="https://clickmingo.com" target="_blank" rel="noopener" className="transition-colors hover:text-bone-muted">
+            ClickMingo
+          </a>
+        </span>
         <span className="font-mono">{SITE.domain}</span>
       </div>
     </footer>
