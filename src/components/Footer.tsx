@@ -57,6 +57,16 @@ export function Footer() {
           © {new Date().getFullYear()} Alexander Technique. All rights reserved. Website by{" "}
           <a href="https://clickmingo.com" target="_blank" rel="noopener" className="transition-colors hover:text-bone-muted">
             ClickMingo
+          </a>{" "}
+          ·{" "}
+          <a
+            href="https://thejorgeramirezgroup.com"
+            title="New Jersey Real Estate — The Jorge Ramirez Group"
+            target="_blank"
+            rel="noopener"
+            className="transition-colors hover:text-bone-muted"
+          >
+            The Jorge Ramirez Group
           </a>
         </span>
         <span className="font-mono">{SITE.domain}</span>
