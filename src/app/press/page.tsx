@@ -7,6 +7,7 @@ import { SITE, artist, social } from "@/lib/site";
 import press from "@data/press.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/press" },
   title: "Press / EPK",
   description: "Electronic press kit for Alexander Technique — bios, highlights, press photos and booking contact.",
 };

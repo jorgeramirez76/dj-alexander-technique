@@ -8,6 +8,7 @@ import { SITE, artist } from "@/lib/site";
 import discography from "@data/discography.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/music" },
   title: "Music",
   description: "Discography of Alexander Technique — singles, EPs, remixes and collaborations on Terminator Records, Data Distortion and more. Stream and buy on Beatport, Traxsource and SoundCloud.",
 };

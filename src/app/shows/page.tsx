@@ -9,6 +9,7 @@ import type { Show } from "@/lib/types";
 import performances from "@data/performances.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/shows" },
   title: "Shows & Tour Dates",
   description: "Upcoming and past shows for Alexander Technique. Book for your event — bookings@djalexandertechnique.com.",
 };

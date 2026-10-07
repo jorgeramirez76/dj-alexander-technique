@@ -5,6 +5,7 @@ import { coverGradient } from "@/lib/art";
 import gallery from "@data/gallery.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/gallery" },
   title: "Gallery",
   description: "Press photos, live shots and artwork from Alexander Technique.",
 };
