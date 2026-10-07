@@ -5,6 +5,7 @@ import type { VideoCategory } from "@/lib/types";
 import videos from "@data/videos.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/videos" },
   title: "Videos & Live Sets",
   description: "Live sets, streams and productions from Alexander Technique — plus footage of Carl Cox, Adam Beyer, Kevin Saunderson and more dropping his tracks.",
 };

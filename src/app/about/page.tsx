@@ -5,6 +5,7 @@ import { Reveal } from "@/components/Reveal";
 import { PageHeader } from "@/components/PageHeader";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/about" },
   title: "About",
   description: artist.bio.medium,
 };

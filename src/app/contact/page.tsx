@@ -8,6 +8,7 @@ import { SITE, social, artist } from "@/lib/site";
 import faq from "@data/faq.json";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/contact" },
   title: "Contact & Booking",
   description: `Book Alexander Technique or send a press/label inquiry. ${SITE.bookingEmail}`,
 };
